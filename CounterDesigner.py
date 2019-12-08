@@ -1,5 +1,5 @@
 import math
-#contains functions for designing the counters
+#module for designing the counters
 
 def toBinary(a):
     b = format(a, "b")
